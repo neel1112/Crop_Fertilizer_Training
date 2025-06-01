@@ -70,10 +70,3 @@ The models provide:
 - Support for more crop varieties and fertilizer types
 - Integration with IoT devices for automated data collection
 
-## License
-
-This project is open source and available under the MIT License.
-
-## Contact
-
-For any queries or contributions, please open an issue in the repository.
